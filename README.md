@@ -1,7 +1,7 @@
 # permit-test
 
-This README outlines the details of collaborating on this Ember application.
-A short introduction of this app could easily go here.
+This project is a simple quiz iteration of the Indiana state Drivers Permit test. Questions and answers can be found from the Indiana BMV government website.
+https://www.in.gov/bmv/files/practice-knowledge-exam.pdf
 
 ## Prerequisites
 
